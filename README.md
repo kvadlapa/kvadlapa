@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kiran Kumar Reddy
-- 👀 I’m interested in Java Development
+- 👀 I’m interested in Java Development, Embedded Systems Development
 - 🌱 I’m currently learning Front End Development, DevOps and AWS
 - 💞️ I’m looking to collaborate on the projects related to Full Stack Development
 - 📫 reach me @kvadlapa@mtu.edu or @vadlapallykiran@gmail.com
