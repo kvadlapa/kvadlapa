@@ -21,7 +21,7 @@ I’m currently seeking full-time opportunities as a Software Engineer, with int
 
 Please feel free to share any suggestions, offer support, or help me connect with the right individuals in the industry. I truly appreciate any guidance or referrals as I take this next step in my career journey.
 
-Thank you!
+Thank you!  
 Kiran
 
 ### 🛠️ Tech Stack & Tools
