@@ -1,8 +1,7 @@
 ## 👋 Hi there, I'm Kiran Kumar Reddy Vadlapally
 
-🎓 Master’s Student in Computer Science at Michigan Technological University  
-💼 Aspiring Software Engineer | Java Developer | Embedded Systems | Technology Enthusiast  
-🌱 Currently working on a robotic lavender harvester GUI & exploring embedded software  
+🎓 Computer Science Master's graduate at Michigan Technological University | Electrical and Electronics Engineering bachelors at MLR Institute of Technology 
+💼 Aspiring Software Engineer | Java Developer | Embedded Systems | Technology Enthusiast    
 📍 Based in Houghton, MI | Open to Full-Time Roles from June 2025  
 
 ---
