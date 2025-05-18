@@ -40,7 +40,7 @@ Kiran
 *A React + Flask based GUI for real-time monitoring and control of autonomous field robots*  
 > · Docker · WebSockets · Map Visualization · Data Slider · Python · Flask
 
-💼 Job Portal Web App- See in my repositories
+💼 Job Portal Web App- (https://github.com/kvadlapa/job-portal-springboot)
 A Spring Boot & JSP-based job posting and listing platform with a responsive Bootstrap UI
 > · Java · Spring Boot · JSP · Bootstrap · MVC · Form Handling
 
@@ -58,7 +58,7 @@ More Projects I'll commit soon in May/June 2025, Stay tuned. Thank you for under
 ### 🤝 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/kvadlapa/)
-- 💻 [Portfolio Website](#) _(Coming Soon)_
+- 💻 Portfolio: Coming soon at [vadlapallykiran.com](https://vadlapallykiran.com)
 - 📬 Email: kvadlapa@mtu.edu | vadlapallykiran@gmail.com
 
 ---
